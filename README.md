@@ -1,2 +1,2 @@
 # zuritask11
-Promt calculator 
+Prompt calculator 
